@@ -17,7 +17,7 @@ theme_set(theme_minimal())
 # Define UI for application that draws a histogram
 ui <- fluidPage(
   
-    title = "EA Dania 2024",
+    title = "Rikke",
 
     # Application title
     titlePanel("Datavisualisering"),
